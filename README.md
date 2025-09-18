@@ -1,4 +1,4 @@
-# Marketplace Funnel and Retention Analysis
+# Marketplace Metrics Improvement Analysis
 
 ## Project Overview
 
