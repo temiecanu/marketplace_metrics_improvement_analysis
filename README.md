@@ -16,12 +16,12 @@ NovoMercado is a fictional online marketplace modelled to resemble mid-size regi
 marketplace_metrics_improvement_analysis/
 │
 ├── data/                      
-│   ├── olist_orders_dataset.csv        # Orders placed by customers
-│   ├── olist_order_items_dataset.csv   # Items within each order
-│   └── olist_customers_dataset.csv     # Customer metadata
+│   ├── olist_orders_dataset.csv           # Orders placed by customers
+│   ├── olist_order_items_dataset.csv      # Items within each order
+│   └── olist_customers_dataset.csv        # Customer metadata
 │
-├── presentation.pdf                    # Final project slides
-├── marketplace__metrics_analysis.ipynb # Full analysis notebook
+├── business_analysis_presentation.pdf     # Final project slides
+├── marketplace__metrics_analysis.ipynb    # Full analysis notebook
 ├── README.md
 ```
 
