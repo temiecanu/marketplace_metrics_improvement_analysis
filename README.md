@@ -117,4 +117,4 @@ jupyter notebook marketplace_metrics_improvement_analysis.ipynb
 
 ## Author
 
-Artemie Țurcanu — Data Analyst.
+Artemie Țurcanu — Data Analyst
